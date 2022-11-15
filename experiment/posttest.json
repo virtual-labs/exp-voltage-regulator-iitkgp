@@ -2,38 +2,44 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Calculate the current through the zener diode with a load resistance of 680Ω:<br/><p style=\"text-align:center\"><img src=\"images/zenerq3.png\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "11.6 mA",
+        "b": "12.8 mA",
+        "c": "12.3 mA",
+        "d": "13.5 mA"
+        
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d":"You have choosen option (d). The answer is incorrect"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Calculate the current through the zener diode with a load resistance of 330Ω:<br/><p style=\"text-align:center\"><img src=\"images/zenerq4.png\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "4.25 mA",
+        "b": "3.35 mA",
+        "c": "4.35 mA",
+        "d": "4.45 mA"
+        
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d":"You have choosen option (d). The answer is incorrect"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+   
+    
+    
+    
   ]
 }
