@@ -36,24 +36,24 @@ In Line Regulation, Load resistance is constant and input voltage varies. VI mus
 
 $$V_L = V_Z= \frac{V_{Imin} \times R_L}{(R_S + R_L)}$$
 
-So, the minimum turn-on voltage \(V_{Imin}\) is :
+So, the minimum turn-on voltage V<sub>Imin</sub> is :
 
 $$V_{Imin}= \frac{V_Z \times (R_S + R_L)}{R_L}$$
                             
- The maximum value of $$V_I$$ is limited by the maximum zener current $$I_{Zmax}$$  
+ The maximum value of V<sub>I</sub> is limited by the maximum zener current I<sub>Zmax</sub>
  
  $$I_{Rmax}= I_{Zmax} + I_L $$              
 
-$$I_L$$ is fixed at :   
+I<sub>L</sub> is fixed at :   
 $$\frac{V_Z}{R_L}$$  
-Since, $$V_L=V_Z$$  
+Since, V<sub>L</sub>=V<sub>Z</sub> 
 
-So maximum $$V_I$$ is   
+So maximum V<sub>I</sub> is   
 $$V_{Imax} =  V_{Rmax} + V_Z$$
 $$V_{Imax} = I_{Rmax} \times R + V_Z$$
-For $$V_I < V_Z$$,
+For V<sub>I </sub> < V<sub>Z</sub>
 $$V_O= V_I$$
-$$V_I > V_Z$$, 
+For V<sub>I</sub> > V<sub>Z</sub> 
 $$V_O = V_I − I_S \times R_S$$
 
 ### Load Rotation
@@ -85,11 +85,11 @@ $$V_S = V_{Imin} - V_Z$$
 
 $$I_S = \frac{V_{Imin}− V_Z}{R_S}$$
 
-For $$R_L < R_{Lmin},$$
+For R<sub>L </sub>< R<sub>Lmin</sub>
 
 $$V_O= V_I$$
 
-For $$R_L > R_{Lmin},$$
+For R<sub>L</sub> > R<sub>Lmin</sub>
 
 $$V_O = V_I − I_S \times R_S$$
 
