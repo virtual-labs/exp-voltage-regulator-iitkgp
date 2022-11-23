@@ -63,15 +63,15 @@ $$V_O = V_I − I_S \times R_S$$
 <p>Figure 4  </p>
 </div>
 
-In Load Regulation , input voltage is constant and Load resistance varies. Too small a Load Resistance $$R_L$$ ,will result in $$V_{Th} < V_Z$$ and Zener Diode will be OFF.
+In Load Regulation , input voltage is constant and Load resistance varies. Too small a Load Resistance R<sub>L</sub>,will result in V<sub>Th</sub> < V<sub>Z</sub> and Zener Diode will be OFF.
 
 $$V_L = V_Z = \frac{V_{Imin} \times R_L}{(R_S + R_L)}$$
 
-So the minimum load resistance $$R_L$$ 
+So the minimum load resistance R<sub>L</sub> 
 
 $$R_{Lmin} = \frac{V_Z  \times R_S}{V_I− V_Z}$$
 
-Any load resistance greater than $$R_{Lmin}$$ will make Zener Diode ON   
+Any load resistance greater than R<sub>Lmin</sub> will make Zener Diode ON   
 
 $$I_S  = I_L + I_Z$$
 
