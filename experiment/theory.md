@@ -124,7 +124,7 @@ $$V_O = V_I − I_S \times R_S$$
 <p>Figure 7  </p>
 </div>
 
-4. Determine the I<sub>L</sub> and I<sub>Z</sub>, where R<sub>S</sub>=160KΩ ,V<sub>in</sub>=24V, $$V_Z$$=12V,
+4. Determine the I<sub>L</sub> and I<sub>Z</sub>, where R<sub>S</sub>=160KΩ ,V<sub>in</sub>=24V, V<sub>Z</sub>=12V,
 200≤R<sub>L</sub>≤∞
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Ans: 0 ≤ I<sub>L</sub> ≤ 60 mA & 75 ≥ I<sub>Z</sub> ≥ 15mA]
