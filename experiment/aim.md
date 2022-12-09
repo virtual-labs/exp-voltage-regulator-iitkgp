@@ -1,4 +1,4 @@
-### Aim of the experiment
+## Aim of the experiment
 
 At the end of the experiment, the student will be able to
 - Explain the function of a Zener diode
