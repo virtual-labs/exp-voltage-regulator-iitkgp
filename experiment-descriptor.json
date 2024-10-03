@@ -30,13 +30,7 @@
       "unit-type": "task",
       "content-type": "text"
     },
-    {
-      "target": "assignment.html",
-      "source": "assignment.md",
-      "label": "Assignment",
-      "unit-type": "task",
-      "content-type": "text"
-    },
+    
     {
       "target": "simulation.html",
       "source": "simulation/index.html",
@@ -51,6 +45,13 @@
       "label": "Posttest",
       "unit-type": "task",
       "content-type": "assesment"
+    },
+    {
+      "target": "assignment.html",
+      "source": "assignment.md",
+      "label": "Assignment",
+      "unit-type": "task",
+      "content-type": "text"
     },
     {
       "target": "references.html",
