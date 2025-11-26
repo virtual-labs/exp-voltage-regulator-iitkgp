@@ -6,12 +6,12 @@
 A Zener Diode is a special kind of diode which permits current to flow in the forward direction as normal, but will also allow it to flow in the reverse direction when the voltage is above the breakdown voltage or ‘zener’ voltage. Zener diodes are designed so that their breakdown voltage is much lower - for example just 2.4 Volts.
 
 <div align="center">
-<img src="images/zenerdi3.png" width="50%">
+<img src="images/zenerdi3.png" style="max-width:100%; height:auto;">
 <p>Figure 1  </p>
 </div>
 
 <div align="center">
-<img src="images/zenerdi2.png" width="50%">
+<img src="images/zenerdi2.png" style="max-width:100%; height:auto;">
 <p>Figure 2  </p>
 </div>
 
@@ -29,7 +29,7 @@ A voltage regulator is an electronic circuit that provides a stable DC voltage i
 
 ### Line Regulation 
 <div align="center">
-<img src="images/zenerdli.png" width="50%">
+<img src="images/zenerdli.png" style="max-width:100%; height:auto;">
 <p>Figure 3  </p>
 </div>
 In Line Regulation, Load resistance is constant and input voltage varies. VI must be sufficiently large to turn the Zener Diode ON.
@@ -59,7 +59,7 @@ $$V_O = V_I − I_S \times R_S$$
 ### Load Rotation
 
 <div align="center">
-<img src="images/zenerdlo.png" width="50%">
+<img src="images/zenerdlo.png" style="max-width:100%; height:auto;">
 <p>Figure 4  </p>
 </div>
 
