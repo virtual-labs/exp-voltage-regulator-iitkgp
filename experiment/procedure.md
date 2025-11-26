@@ -13,7 +13,7 @@
                                     
 
 <div align="center">
-<img src="images/znrli_pr.png" width="50%">
+<img src="images/znrli_pr.png" style="max-width:100%; height:auto;">
 <p>Figure:1</p>
 </div>
 
@@ -30,7 +30,7 @@
 10. Calculate the voltage regulation.
 
 <div align="center">
-<img src="images/znrlo_pr.png" width="50%">
+<img src="images/znrlo_pr.png" style="max-width:100%; height:auto;">
 <p>Figure: 2</p>
 </div>
 
@@ -42,7 +42,7 @@
 5. Plot the V-I graph and observe the change.
 
 <div align="center">
-<img src="images/zener_ch.png" width="50%">
+<img src="images/zener_ch.png" style="max-width:100%; height:auto;">
 <p>Figure: 3</p>
 </div>
 
